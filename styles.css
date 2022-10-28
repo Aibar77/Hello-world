@@ -1,0 +1,13 @@
+body {
+ background-color: aquamarine;
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+h1 {
+ color: blue;
+ margin-left: 20px;
+}
+p {
+ color: blueviolet;
+}
